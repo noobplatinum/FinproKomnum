@@ -79,4 +79,4 @@ Program menghasilkan:
 - Plot perbandingan visual yang disimpan sebagai PNG
 - Analisis komparatif perilaku pendulum pada berbagai kondisi
 
-Program ini berguna untuk memahami karakteristik berbagai metode integrasi numerik dalam konteks sistem dinamis dan dapat digunakan sebagai dasar untuk studi lebih lanjut tentang metode numerik dalam fisika komputasi.
+Program ini berguna untuk memahami karakteristik berbagai metode integrasi numerik dalam konteks sistem dinamis dan dapat digunakan sebagai dasar untuk studi lebih lanjut tentang metode numerik dalam fisika pendulum.
